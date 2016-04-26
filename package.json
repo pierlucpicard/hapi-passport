@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ikkyotech/hapi-passport.git"
+    "url": "git://github.com/pierlucpicard/hapi-passport.git"
   },
   "keywords": [
     "hapi",
@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/ikkyotech/hapi-passport/issues"
   },
-  "homepage": "https://github.com/ikkyotech/hapi-passport",
+  "homepage": "https://github.com/pierlucpicard/hapi-passport",
   "devDependencies": {
     "lab": "~3.2.1",
     "lab-lint": "0.0.3",
