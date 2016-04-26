@@ -1,18 +1,3 @@
-hapi-passport
-=============
-
-```hapi-passport``` is supposed to be a connector between passport.js strategies and the [hapi](https://github.com/spumko/hapi) request api. Right now its in a early phase so its only tested with facebook.
-
-usage
-=====
-
-You need to install ```hapi-passport``` together with the connector strategies like ```passport-facebook```. 
-
-```bash
-$ npm install hapi-passport passport-facebook
-```
-
-With this you can make a request handler like this:
 
 ```javascript
 var FacebookStrategy = require("passport-facebook"),
